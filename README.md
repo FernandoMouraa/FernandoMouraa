@@ -4,9 +4,6 @@
 <p align="left">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=FernandoMouraa alt=FernandoMouraa/> </p>
 
-<p>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMouraa&layout=compact&theme=light&hide_border=true&border_radius=12" />
-</p>
 
 <p align="read"> <img src=https://github-readme-stats.vercel.app/api?username=FernandoMouraa&show_icons=true alt=FernandoMouraa /> </p>
 
